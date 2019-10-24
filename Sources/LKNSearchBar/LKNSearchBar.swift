@@ -28,6 +28,7 @@ fileprivate extension UIColor {
     }
 }
 
+@available(iOS 8.2, *)
 //  MARK: - LKNSearchBar
 public class LKNSearchBar: UISearchBar {
     
